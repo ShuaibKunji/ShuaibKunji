@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShuaibKunji
 - 👀 I’m interested in back-end Web Dev
-- 🌱 I’m currently learning Haskell
+- 🌱 I’m currently learning React
 - 📫 You can reach me via email at shuaibkunji@gmail.com
 
 <!---
